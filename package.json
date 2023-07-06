@@ -1,0 +1,27 @@
+{
+  "name": "sylutils",
+  "version": "0.1.0",
+  "description": "This package is all of my util functions that I usually use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylitas/sylutils.git"
+  },
+  "keywords": [
+    "utils",
+    "util",
+    "sylitas",
+    "common",
+    "function",
+    "functions"
+  ],
+  "author": "Sylitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sylitas/sylutils/issues"
+  },
+  "homepage": "https://github.com/sylitas/sylutils#readme"
+}
